@@ -13,13 +13,13 @@ For each year and for each type of PM source, the NEI records how many tons of P
      ![](Images/Head-SCC.JPG)
      
      **fips** : A five-digit number (represented as a string) indicating the U.S. county </br>
-      **SCC** : The name of the source as indicated by a digit string 
-      **Pollutant** : A string indicating the pollutant
-      **Emissions** : Amount of PM2.5 emitted, in tons
-      **type** : The type of source (point, non-point, on-road, or non-road)
-      **year** : The year of emissions recorded
+      **SCC** : The name of the source as indicated by a digit string </br>
+      **Pollutant** : A string indicating the pollutant </br>
+      **Emissions** : Amount of PM2.5 emitted, in tons </br>
+      **type** : The type of source (point, non-point, on-road, or non-road) </br>
+      **year** : The year of emissions recorded </br>
      
+     `Source_Classification_Code.rds`: This table provides a mapping from the SCC digit strings in the Emissions table to the actual name of the PM2.5 source.
      
-     `Source_Classification_Code.rds`: This table provides a mapping from the SCC digit strings in the Emissions table to the actual name of the PM2.5 source
-     
-* **`run_analysis.R`**, the R script that was used to create the data set (see the Creating the data set section below)
+* **`Plot1.R`**, the R script is used to create a plot which depicts have total emissions from PM2.5 decreased in the United States from 1999 to 2008.
+
