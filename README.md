@@ -25,3 +25,13 @@ For each year and for each type of PM source, the NEI records how many tons of P
 1. _`Plot1.R`_ the R script is used to create a plot which depicts have total emissions from PM2.5 decreased in the United States from 1999 to 2008.
 
 2. _`Plot2.R`_ depicsts whether the total emissions from PM2.5 decreased in the Baltimore City from 1999 to 2008
+
+3. _`Plot3.R`_ analyses out of the four types of sources indicated by the **type**(point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City
+
+4. _`Plot4.R`_ analyses across the United States, how have emissions from coal combustion-related sources changed from 1999–2008
+
+5. _`Plot5.R`_ tells us how have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City
+
+6. `Plot6.R`_ compares emissions from motor vehicle sources in Baltimore City and Los Angeles
+
+* **`Images`**, contains the vizualizations made from the _`R`_ code files 
