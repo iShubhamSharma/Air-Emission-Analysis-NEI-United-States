@@ -12,7 +12,7 @@ For each year and for each type of PM source, the NEI records how many tons of P
      
      ![](Images/Head-SCC.JPG)
      
-     **fips** : A five-digit number (represented as a string) indicating the U.S. county
+     **fips** : A five-digit number (represented as a string) indicating the U.S. county </br>
       **SCC** : The name of the source as indicated by a digit string 
       **Pollutant** : A string indicating the pollutant
       **Emissions** : Amount of PM2.5 emitted, in tons
