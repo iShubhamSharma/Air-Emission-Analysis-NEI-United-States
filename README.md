@@ -19,7 +19,8 @@ For each year and for each type of PM source, the NEI records how many tons of P
       **type** : The type of source (point, non-point, on-road, or non-road) </br>
       **year** : The year of emissions recorded </br>
      
-     `Source_Classification_Code.rds`: This table provides a mapping from the SCC digit strings in the Emissions table to the actual name of the PM2.5 source.
+    - `Source_Classification_Code.rds`: This table provides a mapping from the SCC digit strings in the Emissions table to the actual name of the PM2.5 source.
      
-* **`Plot1.R`**, the R script is used to create a plot which depicts have total emissions from PM2.5 decreased in the United States from 1999 to 2008.
+* **`R Code`**,
+ - _`Plot1.R`_ the R script is used to create a plot which depicts have total emissions from PM2.5 decreased in the United States from 1999 to 2008.
 
