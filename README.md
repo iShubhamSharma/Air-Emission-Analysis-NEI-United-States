@@ -3,6 +3,8 @@
 In this project, data is collected from National Emissions Inventory (NEI).
 For each year and for each type of PM source, the NEI records how many tons of PM2.5 were emitted from that source over the course of the entire year. The data is for the following years 1999, 2002, 2005, and 2008.
 
+Fine particulate matter (PM2.5) is an ambient air pollutant for which there is strong evidence that it is harmful to human health. In the United States, the Environmental Protection Agency (EPA) is tasked with setting national ambient air quality standards for fine PM and for tracking the emissions of this pollutant into the atmosphere.
+
 ## This repository contains the following files:
 
 * **`README.md`**, this file, which provides an overview of the data set and the R code.
