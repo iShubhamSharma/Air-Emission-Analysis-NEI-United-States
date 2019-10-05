@@ -6,8 +6,7 @@ For each year and for each type of PM source, the NEI records how many tons of P
 ## This repository contains the following files:
 
 * **`README.md`**, this file, which provides an overview of the data set and the R code.
-* **`Data/[Link To Download Dataset](
-https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)`**,contains two files: 
+* **`Data/[Link To Download Dataset](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)`**,contains two files: 
      - `summarySCC_PM25.rds`: This file contains a data frame with all of the PM2.5 emissions data for 1999, 2002, 2005, and 2008. For each       year, the table contains number of tons of PM2.5 emitted from a specific type of source for the entire year.
      The first few rows of this data:
      
